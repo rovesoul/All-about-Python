@@ -3,7 +3,7 @@
 仅仅爬取了前100页的数据
 为了避免反爬虫策略，设定每5秒钟抓取一页信息
 @time = 2019-12-03
-@author = rs
+@author = rovesoul
 '''
 
 from bs4 import BeautifulSoup
